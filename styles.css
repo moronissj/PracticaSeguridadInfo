@@ -5,15 +5,11 @@
 }
 #semaforo{
     width: 50%;
-    background-color: black;
-    color: white;
 }
 .semaforo {
     border-width: 1px;
     border-style: solid;
     border-color: black;
-    background-color: black;
-    color: white;
 
   }
 
